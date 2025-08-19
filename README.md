@@ -1,6 +1,7 @@
 # Proyecto Literatura - literAlura
-
-<img width="890" height="832" alt="Image" src="https://github.com/user-attachments/assets/41ebaa3b-acae-474b-a780-ca76f1ae5bae" />
+<p align="center">
+<img width="483" height="483" alt="Image" src="https://github.com/user-attachments/assets/1f487352-99db-4c01-aced-dafa940acd14" />
+</p>
 
 
 Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente y fácil. 🎉
